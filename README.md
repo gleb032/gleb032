@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ My name is Gleb as you can see by my nickname. I am a junior/intern iOS developer.
+✨ My name is Gleb as you can see by my nickname. I am a junior iOS developer.
 
 🎓 I am a third-year undergraduate student of the NRU MPEI majoring in Applied Mathematics and Computer Science.
 
