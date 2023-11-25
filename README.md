@@ -6,4 +6,4 @@
 
 📫 How to reach me:
 * telegram: [@glebfann](https://telegram.me/glebfann)
-* Fandeev.business@gmail.com
+* linkedin: [Gleb Fandeev](https://www.linkedin.com/in/gleb-fandeev/)
